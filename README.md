@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rahulpa55649002" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulpa55649002?logo=twitter&style=for-the-badge" alt="@rahulpa55649002" /></a> </p>
 
-- 🔭 I’m currently working on **A fullstack Project**
+- 🔭 I’m currently working on **A FullStack Project**
 
 - 🌱 I’m currently learning **React Js & Machine Learning related stuff.**
 
