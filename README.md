@@ -1,13 +1,13 @@
 [![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZqNGkwMnVzaDJ0eHg3MG5qb3Btem8xcHEzczN4b21zazJ0M2gxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)](https://PandeyRahulPandey.io)
 <h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
-<h3 align="center">A passionate frontend developer from Dehradun, Uttarakhand.</h3>
+<h3 align="center">An Aspiring Software Developer from Dehradun, Uttarakhand.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/n1dFDLwXu4Qkwy7OJ0/200w.webp?cid=ecf05e476zfvt6kmsfvnbrycx9ngb0x2xbcreoxphi97wjgl&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeyrahulpandey&label=Profile%20views&color=0e75b6&style=flat" alt="pandeyrahulpandey" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@rahulpa55649002" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulpa55649002?logo=twitter&style=for-the-badge" alt="@rahulpa55649002" /></a> </p>
 
-- 🔭 I’m currently working on **My personal portfolio website**
+- 🔭 I’m currently working on **A fullstack Project**
 
 - 🌱 I’m currently learning **React Js & Machine Learning related stuff.**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rp813684@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1T4XIzY50FJ56lXUfZBW3JcI3IjHsV_ZX?usp=sharing](https://drive.google.com/drive/folders/1T4XIzY50FJ56lXUfZBW3JcI3IjHsV_ZX?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1T4XIzY50FJ56lXUfZBW3JcI3IjHsV_ZX?usp=sharing](https://drive.google.com/file/d/1c1fzotwSjiHvH1U0CnzkL3isp_uuQ67M/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am very obsessed for my goals.**
 
